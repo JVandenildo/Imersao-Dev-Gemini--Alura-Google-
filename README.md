@@ -6,9 +6,12 @@ Imersão Dev da Alura em parceria com o Google por meio do Gemini. Datas importa
 - [Live de abertura](https://www.youtube.com/live/i4W_bkGkk6s), 30/08;
 - Primeira aula, 02/09;
 - Segunda aula, 03/09;
-- Terceira aula, 04/09;
+- Terceira aula, 04/09 (8h);
+- Live intermediária, 04/09 (18h);
 - Quarta aula, 05/09;
-- Quinta/Última aula, 06/09.
+- Quinta/Última aula, 06/09;
+- Live de encerramento, 09/09;
+- Liberação do certificado, 16/09.
 
 ## Links relevantes
 
