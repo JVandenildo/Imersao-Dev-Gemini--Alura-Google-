@@ -1,6 +1,14 @@
 # Imersão Dev Gemini (Alura+Google)
 
-Imersão Dev da Alura em parceria com o Google por meio do Gemini.
+Imersão Dev da Alura em parceria com o Google por meio do Gemini. Datas importantes:
+
+- [Masterclass](https://youtu.be/3m6dzdlfgeM), 12/08;
+- [Live de abertura](https://www.youtube.com/live/i4W_bkGkk6s), 30/08;
+- Primeira aula, 02/09;
+- Segunda aula, 03/09;
+- Terceira aula, 04/09;
+- Quarta aula, 05/09;
+- Quinta/Última aula, 06/09.
 
 ## Links relevantes
 
