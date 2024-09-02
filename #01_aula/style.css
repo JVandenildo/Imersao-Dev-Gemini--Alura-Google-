@@ -45,11 +45,10 @@ section input {
 	padding: 1rem; /* Espaçamento interno */
 	border-radius: 1.5rem; /* Borda arredondada */
 	margin-bottom: 1rem; /* Espaçamento abaixo dos inputs */
-	color: var(--text-color); /* Cor do texto */
+	color: var(--background-color); /* Cor do texto */
+	background-color: var(--text-color); /* Cor do campo de entrada */
 	font-size: 1rem; /* Tamanho da fonte */
 	box-sizing: border-box; /* Inclui padding e border na largura total */
-	background-color: var(--background-color);
-	color: var(--secondary-color);
 }
 
 /* Estiliza os botões dentro das seções */
