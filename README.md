@@ -5,7 +5,7 @@ Datas importantes da imersão:
 
 - [Masterclass](https://youtu.be/3m6dzdlfgeM), 12/08;
 - [Live de abertura](https://www.youtube.com/live/i4W_bkGkk6s), 30/08;
-- Primeira aula, 02/09;
+- [Primeira aula](https://cursos.alura.com.br/imersoes/aulas/aula-01-iniciando-o-projeto-com-html-e-css-c134), 02/09;
 - Segunda aula, 03/09;
 - Terceira aula, 04/09 (8h);
 - Live intermediária, 04/09 (18h);
