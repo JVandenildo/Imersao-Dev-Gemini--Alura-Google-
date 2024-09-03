@@ -6,7 +6,7 @@ Datas importantes da imersão:
 - [Masterclass](https://youtu.be/3m6dzdlfgeM), 12/08;
 - [Live de abertura](https://www.youtube.com/live/i4W_bkGkk6s), 30/08;
 - [Primeira aula](https://cursos.alura.com.br/imersoes/aulas/aula-01-iniciando-o-projeto-com-html-e-css-c134), 02/09;
-- Segunda aula, 03/09;
+- [Segunda aula](https://cursos.alura.com.br/imersoes/aulas/aula-02-estilizando-o-projeto-com-css-c135), 03/09;
 - Terceira aula, 04/09 (8h);
 - Live intermediária, 04/09 (18h);
 - Quarta aula, 05/09;
@@ -18,4 +18,4 @@ Datas importantes da imersão:
 
 - [Masterclass](https://youtu.be/3m6dzdlfgeM) no canal da [Alura](https://www.youtube.com/@alura) no YouTube;
 - [Live da abertura](https://www.youtube.com/live/i4W_bkGkk6s) no canal da [Alura](https://www.youtube.com/@alura) no YouTube;
-- [Guia de mergulho](https://grupoalura.notion.site/Imers-o-Dev-com-Gemini-Guia-de-Mergulho-7742af09c51649348a91f67157df8a41#fbfa928f2b37444b91c995f7e00e8f58) da imersão no Notion.
+- [Guia da imersão](https://grupoalura.notion.site/Imers-o-Dev-com-Gemini-Guia-de-Mergulho-7742af09c51649348a91f67157df8a41#fbfa928f2b37444b91c995f7e00e8f58) no Notion.
