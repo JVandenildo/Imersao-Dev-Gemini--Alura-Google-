@@ -10,11 +10,9 @@ function pesquisar() {
 	for (let dado of dados) {
 		// Cria um novo elemento div com a classe 'item-resultado' para cada dado
 		resultados += `<div class="item-resultado">
-        // Cria um elemento h2 com um link para o título do dado
         <h2>
           <a href="#" target="_blank">${dado.titulo}</a>
         </h2>
-        // Cria um elemento p com a classe 'descricao-meta' para a descrição e um link "Saiba mais"
         <p class="descricao-meta">
           ${dado.descricao}
           <a
