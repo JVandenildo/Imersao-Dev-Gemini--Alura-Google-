@@ -1,10 +1,11 @@
-// console.log(dados);
+function pesquisar() {
+	let section = document.getElementById("resultados-pesquisa");
+	// console.log(section);
 
-let section = document.getElementById("resultados-pesquisa");
-console.log(section);
+	let resultados = "";
 
-for (let dado of dados) {
-	section.innerHTML += `<div class="item-resultado">
+	for (let dado of dados) {
+		resultados += `<div class="item-resultado">
     <h2>
         <a href="#" target="_blank">${dado.titulo}</a>
     </h2>
@@ -17,4 +18,7 @@ for (let dado of dados) {
         >.
     </p>
     </div>`;
+	}
+
+	section.innerHTML = resultados;
 }
