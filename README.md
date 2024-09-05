@@ -9,7 +9,7 @@ Datas importantes da imersão:
 - [Segunda aula](https://cursos.alura.com.br/imersoes/aulas/aula-02-estilizando-o-projeto-com-css-c135), 03/09;
 - [Terceira aula](https://cursos.alura.com.br/imersoes/aulas/aula-03-criando-a-base-de-dados-com-javascript-c137), 04/09 (8h);
 - [Live intermediária](https://www.youtube.com/live/pAWkbX09yBw), 04/09 (18h);
-- Quarta aula, 05/09;
+- [Quarta aula](https://cursos.alura.com.br/imersoes/aulas/aula-04-implementando-a-funcionalidade-de-busca-c138), 05/09;
 - Quinta/Última aula, 06/09;
 - Live de encerramento, 09/09;
 - Liberação do certificado, 16/09.
