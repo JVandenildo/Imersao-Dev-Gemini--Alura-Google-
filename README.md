@@ -10,8 +10,8 @@ Datas importantes da imersão:
 - [Terceira aula](https://cursos.alura.com.br/imersoes/aulas/aula-03-criando-a-base-de-dados-com-javascript-c137), 04/09 (8h);
 - [Live intermediária](https://www.youtube.com/live/pAWkbX09yBw), 04/09 (18h);
 - [Quarta aula](https://cursos.alura.com.br/imersoes/aulas/aula-04-implementando-a-funcionalidade-de-busca-c138), 05/09;
-- Quinta/Última aula, 06/09;
-- Live de encerramento, 09/09;
+- [Quinta/Última aula](https://cursos.alura.com.br/imersoes/aulas/aula-05-finalizando-o-projeto-com-github-e-deploy-c139), 06/09;
+- [Live de encerramento](https://www.youtube.com/live/WGKvBq_wYhQ), 09/09;
 - Liberação do certificado, 16/09.
 
 ## Links relevantes
@@ -19,4 +19,5 @@ Datas importantes da imersão:
 - [Masterclass](https://youtu.be/3m6dzdlfgeM) no canal da [Alura](https://www.youtube.com/@alura) no YouTube;
 - [Live da abertura](https://www.youtube.com/live/i4W_bkGkk6s) no canal da [Alura](https://www.youtube.com/@alura) no YouTube;
 - [Guia da imersão](https://grupoalura.notion.site/Imers-o-Dev-com-Gemini-Guia-de-Mergulho-7742af09c51649348a91f67157df8a41#fbfa928f2b37444b91c995f7e00e8f58) no Notion;
-- [Live intermediária](https://www.youtube.com/live/pAWkbX09yBw) sobre carreira dev.
+- [Live intermediária](https://www.youtube.com/live/pAWkbX09yBw) sobre carreira dev;
+- [Live de encerramento](https://www.youtube.com/live/WGKvBq_wYhQ) sobre projetos interessantes.
